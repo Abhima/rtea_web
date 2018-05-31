@@ -1,0 +1,36 @@
+@import "bourbon";
+
+body {
+	.my_loc{
+        width: 500px;
+        height: 500px;
+    	}	
+	
+	.background: #eee !important;	
+	}
+
+	.wrapper {	
+		margin-top: 140px;
+	  margin-bottom: 80px;
+	}
+
+	.form-signin {
+  		max-width: 400px;
+  		padding: 10px 0px 30px;
+  		margin: 0 auto;
+  		background-color: #fff;
+  		border: 1px solid rgba(0,0,0,0.2);
+	
+	.form-signin-heading{
+	  margin-bottom: 30px;
+	}
+
+	.form-display {
+		max-width: 400px;
+  		padding: 10px 0px 30px;
+  		margin: 0 auto;
+  		background-color: #fff;
+  		border: 1px solid rgba(0,0,0,0.2);
+	}
+
+}
